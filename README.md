@@ -1,4 +1,4 @@
-# Polsartools Example Notebooks
+# `polsartools` Example Notebooks
 
 Welcome to the **Polsartools Example Notebooks** repository! This repo contains a collection of Jupyter notebooks showcasing various features and usage of the [polsartools](https://github.com/Narayana-Rao/polsartools) package.
 
@@ -6,13 +6,13 @@ These notebooks serve as hands-on tutorials and demonstrate how to use the core 
 
 ## Overview
 
-This repository includes a set of example notebooks that you can run to explore and learn how to use **polsartools**. These notebooks cover a variety of use cases and will help you get up to speed with the package quickly.
+This repository includes a set of example notebooks that you can run to explore and learn how to use **`polsartools`**. These notebooks cover a variety of use cases and will help you get up to speed with the package quickly.
 
 ## How to Use the Notebooks
 
 To run the notebooks in this repository, follow these steps:
 
-### 1. Install **Polsartools** Package
+### 1. Install **`polsartools`** Package
 
 Before running the notebooks, you'll need to install the core **Polsartools** package. 
 
