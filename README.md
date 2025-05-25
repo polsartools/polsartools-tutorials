@@ -12,9 +12,15 @@ This repository includes a set of example notebooks that you can run to explore 
 
 To run the notebooks in this repository, follow these steps:
 
-### 1. Install **`polsartools`** Package
+### 1. Install **`gdal`** Package
 
-Before running the notebooks, you'll need to install the core **Polsartools** package. 
+```bash
+conda install gdal -c conda-forge
+```
+
+### 2. Install **`polsartools`** Package
+
+Before running the notebooks, you'll need to install the core **`polsartools`** package. 
 
 You can install it using `pip`:
 
@@ -27,11 +33,3 @@ If you encounter an error like "function not found" or need the latest version, 
 ```bash
 pip install git+https://github.com/Narayana-Rao/polsartools.git#egg=polsartools
 ```
-
-## Troubleshooting
-
-### Error due to GDAL installation:
-If you face issues related to GDAL (e.g., "GDAL not found" or installation errors), try installing GDAL using `conda`:
-
-```bash
-conda install -c conda-forge gdal
