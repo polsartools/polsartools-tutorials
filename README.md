@@ -22,14 +22,25 @@ conda install gdal -c conda-forge
 
 Before running the notebooks, you'll need to install the core **`polsartools`** package. 
 
-You can install it using `pip`:
+**Option A:** Install from PyPI `pip` (stable release)
 
 ```bash
 pip install polsartools
 ```
 
-If you encounter an error like "module not found" or need the latest version, you can install the updated version directly from GitHub:
+**Option B:**  Install the latest version from GitHub (if you need recent updates or fixes)
 
 ```bash
 pip install git+https://github.com/Narayana-Rao/polsartools.git#egg=polsartools
 ```
+> **Note:** If youIf you encounter a `"module not found"` error or require newer features, prefer the [GitHub installation](https://github.com/Narayana-Rao/polsartools).
+
+### 3. Verify the Installation
+
+After successfully installing `polsartools`, you can verify it by importing the package:
+
+```bash
+import polsartools as pst
+```
+
+If this runs without errors, you're ready to explore and run the notebooks.
