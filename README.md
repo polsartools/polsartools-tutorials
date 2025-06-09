@@ -28,12 +28,19 @@ Before running the notebooks, you'll need to install the core **`polsartools`** 
 pip install polsartools
 ```
 
-**Option B:**  Install the latest version from GitHub (if you need recent updates or fixes)
+**Option B:** Install from conda (stable release)
+
+```bash
+conda install polsartools -c bnarayanarao
+```
+
+
+**Option C:**  Install the latest version from GitHub (if you need recent updates or fixes)
 
 ```bash
 pip install git+https://github.com/Narayana-Rao/polsartools.git#egg=polsartools
 ```
-> **Note:** If youIf you encounter a `"module not found"` error or require newer features, prefer the [GitHub installation](https://github.com/Narayana-Rao/polsartools).
+> **Note:** If you encounter a `"module not found"` error or require newer features, prefer the [GitHub installation](https://github.com/Narayana-Rao/polsartools).
 
 ### 3. Verify the Installation
 
