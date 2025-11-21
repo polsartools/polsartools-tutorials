@@ -37,11 +37,11 @@ os.environ["TQDM_NOTEBOOK"] = "1"
 
 notebooks = [
     # "00_Polarimetric_signatures.ipynb",
-    # "ALOS2_Dual_pol.ipynb",
-    # "ALOS2_full_pol.ipynb",
+    "ALOS2_dual_pol.ipynb",
+    "ALOS2_full_pol.ipynb",
     # "Chandrayaan_II_DFSAR_Full_pol.ipynb",
-    "ESAR_dual_pol_GTC.ipynb",
-    "ESAR_Full_pol_GTC.ipynb",
+    # "ESAR_dual_pol_GTC.ipynb",
+    # "ESAR_Full_pol_GTC.ipynb",
     # "ISRO_ASAR.ipynb",
     # "RADARSAT-2_FP.ipynb",
     # "RISAT_CP.ipynb",
