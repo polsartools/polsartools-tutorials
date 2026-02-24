@@ -56,7 +56,7 @@ If this runs without errors, you're ready to explore and run the notebooks.
 
 # How to cite:
 
-If you use **`polsartoos`** in your research or projects, please cite the official journal paper:
+If you use **`polsartools`** in your research or projects, please cite the official journal paper:
 
 > Bhogapurapu, N., Siqueira, P., & Bhattacharya, A. 2026. **polsartools: A Cloud-Native Python Library for Processing Open Polarimetric SAR Data at Scale**. *SoftwareX*, 33, 102490. doi: [10.1016/j.softx.2025.102490](http://dx.doi.org/10.1016/j.softx.2025.102490)
 
